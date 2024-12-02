@@ -1,0 +1,5669 @@
+{
+    "version": "2.3.9",
+    "fields": [
+        "title",
+        "text"
+    ],
+    "fieldVectors": [
+        [
+            "title//github-pages-guide/",
+            [
+                0,
+                1.233
+            ]
+        ],
+        [
+            "text//github-pages-guide/",
+            [
+                1,
+                1.515,
+                2,
+                0.875,
+                3,
+                0.726,
+                4,
+                0.853,
+                5,
+                0.95,
+                6,
+                0.95,
+                7,
+                1.637,
+                8,
+                0.234,
+                9,
+                0.249,
+                10,
+                0.95,
+                11,
+                0.726,
+                12,
+                0.455,
+                13,
+                0.95,
+                14,
+                0.95,
+                15,
+                0.95,
+                16,
+                0.853,
+                17,
+                0.632,
+                18,
+                0.726,
+                19,
+                0.824,
+                20,
+                0.95,
+                21,
+                0.95,
+                22,
+                0.95,
+                23,
+                0.455,
+                24,
+                0.95,
+                25,
+                0.455,
+                26,
+                0.95,
+                27,
+                0.95,
+                28,
+                0.95,
+                29,
+                0.455,
+                30,
+                0.18,
+                31,
+                0.18,
+                32,
+                0.95,
+                33,
+                0.95,
+                34,
+                0.455,
+                35,
+                0.95,
+                36,
+                0.95,
+                37,
+                0.455,
+                38,
+                0.95,
+                39,
+                0.95,
+                40,
+                0.785,
+                41,
+                0.455,
+                42,
+                1.319,
+                43,
+                0.95,
+                44,
+                0.95,
+                45,
+                0.455,
+                46,
+                0.95,
+                47,
+                0.95,
+                48,
+                0.95,
+                49,
+                1.319,
+                50,
+                0.95,
+                51,
+                0.95,
+                52,
+                0.95,
+                53,
+                0.95,
+                54,
+                0.95,
+                55,
+                0.95,
+                56,
+                0.95,
+                57,
+                0.95,
+                58,
+                0.455,
+                59,
+                0.95,
+                60,
+                0.95,
+                61,
+                0.455,
+                62,
+                0.95,
+                63,
+                0.95,
+                64,
+                0.95,
+                65,
+                0.95,
+                66,
+                0.95,
+                67,
+                0.95,
+                68,
+                0.95,
+                69,
+                0.632,
+                70,
+                0.95,
+                71,
+                0.455,
+                72,
+                0.95,
+                73,
+                0.95,
+                74,
+                0.95,
+                75,
+                0.95,
+                76,
+                0.95,
+                77,
+                0.95,
+                78,
+                0.455,
+                79,
+                0.95,
+                80,
+                0.455,
+                81,
+                0.95,
+                82,
+                0.455,
+                83,
+                0.95,
+                84,
+                0.95,
+                85,
+                0.95,
+                86,
+                0.95,
+                87,
+                0.95,
+                88,
+                0.95,
+                89,
+                0.455,
+                90,
+                0.455,
+                91,
+                0.455,
+                92,
+                0.95,
+                93,
+                0.95,
+                94,
+                0.455,
+                95,
+                0.206,
+                96,
+                0.95,
+                97,
+                0.95,
+                98,
+                0.95,
+                99,
+                0.455,
+                100,
+                0.163,
+                101,
+                0.455,
+                102,
+                0.632,
+                103,
+                0.455,
+                104,
+                0.455,
+                105,
+                0.129,
+                106,
+                0.95,
+                107,
+                0.95
+            ]
+        ],
+        [
+            "title//github-pages-guide/tutorial/setting-up-github-account/",
+            [
+                30,
+                0.111,
+                31,
+                0.111,
+                95,
+                0.111
+            ]
+        ],
+        [
+            "text//github-pages-guide/tutorial/setting-up-github-account/",
+            [
+                2,
+                0.846,
+                3,
+                0.345,
+                4,
+                0.804,
+                8,
+                0.196,
+                9,
+                0.22,
+                11,
+                0.621,
+                12,
+                0.345,
+                16,
+                0.886,
+                17,
+                0.517,
+                18,
+                0.517,
+                19,
+                0.886,
+                23,
+                0.345,
+                25,
+                0.345,
+                29,
+                0.621,
+                30,
+                0.098,
+                31,
+                0.147,
+                34,
+                0.517,
+                37,
+                0.621,
+                40,
+                0.925,
+                41,
+                0.345,
+                45,
+                0.345,
+                58,
+                0.345,
+                61,
+                0.69,
+                69,
+                0.69,
+                71,
+                0.621,
+                78,
+                0.345,
+                80,
+                0.345,
+                82,
+                0.345,
+                89,
+                0.345,
+                90,
+                0.345,
+                91,
+                0.345,
+                94,
+                0.517,
+                95,
+                0.196,
+                99,
+                0.345,
+                100,
+                0.116,
+                101,
+                0.345,
+                102,
+                0.621,
+                103,
+                0.345,
+                104,
+                0.345,
+                108,
+                1.295,
+                109,
+                0.72,
+                110,
+                0.72,
+                111,
+                0.72,
+                112,
+                0.72,
+                113,
+                0.72,
+                114,
+                0.72,
+                115,
+                0.72,
+                116,
+                0.72,
+                117,
+                0.72,
+                118,
+                0.72,
+                119,
+                0.72,
+                120,
+                0.72,
+                121,
+                0.72,
+                122,
+                0.72,
+                123,
+                1.079,
+                124,
+                0.72,
+                125,
+                0.72,
+                126,
+                0.72,
+                127,
+                0.72,
+                128,
+                0.72,
+                129,
+                0.72,
+                130,
+                1.079,
+                131,
+                1.079,
+                132,
+                0.72,
+                133,
+                0.72,
+                134,
+                0.72,
+                135,
+                0.72,
+                136,
+                1.542,
+                137,
+                0.72,
+                138,
+                0.72,
+                139,
+                0.72,
+                140,
+                0.72,
+                141,
+                1.079,
+                142,
+                1.679,
+                143,
+                1.295,
+                144,
+                0.72,
+                145,
+                0.72,
+                146,
+                0.72,
+                147,
+                1.079,
+                148,
+                1.295,
+                149,
+                1.079,
+                150,
+                0.72,
+                151,
+                0.72,
+                152,
+                1.079,
+                153,
+                0.72,
+                154,
+                1.295,
+                155,
+                0.72,
+                156,
+                0.72,
+                157,
+                0.72,
+                158,
+                0.72,
+                159,
+                0.72,
+                160,
+                0.72,
+                161,
+                0.72,
+                162,
+                1.079,
+                163,
+                1.079,
+                164,
+                1.079,
+                165,
+                0.72,
+                166,
+                0.72,
+                167,
+                0.72,
+                168,
+                0.72,
+                169,
+                0.72,
+                170,
+                0.72,
+                171,
+                0.72,
+                172,
+                0.72,
+                173,
+                0.72,
+                174,
+                0.72,
+                175,
+                0.72,
+                176,
+                0.72,
+                177,
+                0.72,
+                178,
+                0.72,
+                179,
+                0.72,
+                180,
+                0.72,
+                181,
+                0.72,
+                182,
+                0.72,
+                183,
+                0.72,
+                184,
+                0.72,
+                185,
+                0.72,
+                186,
+                0.72,
+                187,
+                0.72,
+                188,
+                0.72,
+                189,
+                0.72,
+                190,
+                0.72,
+                191,
+                0.72,
+                192,
+                0.72,
+                193,
+                0.72,
+                194,
+                1.079,
+                195,
+                0.72,
+                196,
+                1.079,
+                197,
+                0.72,
+                198,
+                0.72,
+                199,
+                0.72,
+                200,
+                0.72,
+                201,
+                0.72,
+                202,
+                0.72,
+                203,
+                0.72,
+                204,
+                0.72,
+                205,
+                0.72,
+                206,
+                1.079,
+                207,
+                0.72,
+                208,
+                0.72,
+                209,
+                0.72,
+                210,
+                1.079,
+                211,
+                0.72,
+                212,
+                0.72,
+                213,
+                0.72,
+                214,
+                0.72,
+                215,
+                0.72,
+                216,
+                0.72,
+                217,
+                0.72,
+                218,
+                1.079,
+                219,
+                0.72,
+                220,
+                0.72,
+                221,
+                0.72,
+                222,
+                0.72,
+                223,
+                0.72,
+                224,
+                1.079,
+                225,
+                0.72,
+                226,
+                0.72,
+                227,
+                0.72,
+                228,
+                0.72,
+                229,
+                0.72,
+                230,
+                0.72,
+                231,
+                0.72,
+                232,
+                0.72
+            ]
+        ],
+        [
+            "title//github-pages-guide/tutorial/creating-github-repositories/",
+            [
+                100,
+                0.105,
+                105,
+                0.134
+            ]
+        ],
+        [
+            "text//github-pages-guide/tutorial/creating-github-repositories/",
+            [
+                8,
+                0.221,
+                9,
+                0.221,
+                100,
+                0.174,
+                105,
+                0.221,
+                233,
+                1.622
+            ]
+        ]
+    ],
+    "invertedIndex": [
+        [
+            "(it",
+            {
+                "_index": 199,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1088,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "(optional)",
+            {
+                "_index": 225,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1476,
+                                10
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            ",",
+            {
+                "_index": 135,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                390,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            ".",
+            {
+                "_index": 61,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                485,
+                                1
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                564,
+                                1
+                            ],
+                            [
+                                698,
+                                1
+                            ],
+                            [
+                                934,
+                                1
+                            ],
+                            [
+                                1130,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "1",
+            {
+                "_index": 129,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                312,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "2",
+            {
+                "_index": 140,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                426,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "3",
+            {
+                "_index": 153,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                566,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "4",
+            {
+                "_index": 161,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                700,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "5",
+            {
+                "_index": 183,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                936,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "6",
+            {
+                "_index": 191,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1015,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "7",
+            {
+                "_index": 205,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1132,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "8",
+            {
+                "_index": 217,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1334,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "9",
+            {
+                "_index": 223,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1453,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "[wip]",
+            {
+                "_index": 233,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/creating-github-repositories/": {
+                        "position": [
+                            [
+                                32,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "a",
+            {
+                "_index": 16,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                108,
+                                1
+                            ],
+                            [
+                                367,
+                                1
+                            ],
+                            [
+                                723,
+                                1
+                            ],
+                            [
+                                832,
+                                1
+                            ],
+                            [
+                                887,
+                                1
+                            ],
+                            [
+                                920,
+                                1
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                150,
+                                1
+                            ],
+                            [
+                                262,
+                                1
+                            ],
+                            [
+                                295,
+                                1
+                            ],
+                            [
+                                575,
+                                1
+                            ],
+                            [
+                                586,
+                                1
+                            ],
+                            [
+                                615,
+                                1
+                            ],
+                            [
+                                647,
+                                1
+                            ],
+                            [
+                                709,
+                                1
+                            ],
+                            [
+                                744,
+                                1
+                            ],
+                            [
+                                956,
+                                1
+                            ],
+                            [
+                                1600,
+                                1
+                            ],
+                            [
+                                1660,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "account",
+            {
+                "_index": 95,
+                "title": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                11,
+                                7
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                777,
+                                7
+                            ],
+                            [
+                                879,
+                                7
+                            ],
+                            [
+                                929,
+                                7
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                23,
+                                7
+                            ],
+                            [
+                                304,
+                                7
+                            ],
+                            [
+                                1351,
+                                7
+                            ],
+                            [
+                                1550,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "account.",
+            {
+                "_index": 89,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                732,
+                                8
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1609,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "address",
+            {
+                "_index": 143,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                445,
+                                7
+                            ],
+                            [
+                                490,
+                                7
+                            ],
+                            [
+                                1177,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "after",
+            {
+                "_index": 219,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1359,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "all",
+            {
+                "_index": 64,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                505,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "already",
+            {
+                "_index": 90,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                742,
+                                7
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                809,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "always",
+            {
+                "_index": 72,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                595,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "and",
+            {
+                "_index": 4,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                14,
+                                3
+                            ],
+                            [
+                                417,
+                                3
+                            ],
+                            [
+                                453,
+                                3
+                            ],
+                            [
+                                535,
+                                3
+                            ],
+                            [
+                                617,
+                                3
+                            ],
+                            [
+                                802,
+                                3
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                210,
+                                3
+                            ],
+                            [
+                                392,
+                                3
+                            ],
+                            [
+                                542,
+                                3
+                            ],
+                            [
+                                1206,
+                                3
+                            ],
+                            [
+                                1280,
+                                3
+                            ],
+                            [
+                                1423,
+                                3
+                            ],
+                            [
+                                1526,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "and,",
+            {
+                "_index": 44,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                337,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "any",
+            {
+                "_index": 23,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                165,
+                                3
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1500,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "anything",
+            {
+                "_index": 32,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                228,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "appear",
+            {
+                "_index": 177,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                865,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "appear.",
+            {
+                "_index": 158,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                633,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "appropriate,",
+            {
+                "_index": 175,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                841,
+                                12
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "are",
+            {
+                "_index": 58,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                465,
+                                3
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                805,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "as",
+            {
+                "_index": 176,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                854,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "asked",
+            {
+                "_index": 165,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                730,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "be",
+            {
+                "_index": 164,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                727,
+                                2
+                            ],
+                            [
+                                772,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "beautiful",
+            {
+                "_index": 6,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                26,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "because",
+            {
+                "_index": 170,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                782,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "belong",
+            {
+                "_index": 73,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                602,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "best",
+            {
+                "_index": 54,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                425,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "both",
+            {
+                "_index": 56,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                437,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "browser,",
+            {
+                "_index": 132,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                349,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "but",
+            {
+                "_index": 76,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                631,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "button",
+            {
+                "_index": 188,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                985,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "button.",
+            {
+                "_index": 139,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                418,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "by",
+            {
+                "_index": 103,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                894,
+                                2
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                269,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "can",
+            {
+                "_index": 226,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1491,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "captcha",
+            {
+                "_index": 193,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1027,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "challenge",
+            {
+                "_index": 197,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1068,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "choose",
+            {
+                "_index": 162,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                702,
+                                6
+                            ],
+                            [
+                                824,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "click",
+            {
+                "_index": 136,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                396,
+                                5
+                            ],
+                            [
+                                546,
+                                5
+                            ],
+                            [
+                                680,
+                                5
+                            ],
+                            [
+                                964,
+                                5
+                            ],
+                            [
+                                1114,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "click,",
+            {
+                "_index": 48,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                356,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "code",
+            {
+                "_index": 213,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1260,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "code,",
+            {
+                "_index": 24,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                169,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "complete",
+            {
+                "_index": 196,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1055,
+                                8
+                            ],
+                            [
+                                1134,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "completely",
+            {
+                "_index": 59,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                469,
+                                10
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "complicated,",
+            {
+                "_index": 114,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                100,
+                                12
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "computer.",
+            {
+                "_index": 33,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                245,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "congratulations!",
+            {
+                "_index": 229,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1569,
+                                16
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "copy",
+            {
+                "_index": 212,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1238,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "create",
+            {
+                "_index": 3,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                7,
+                                6
+                            ],
+                            [
+                                101,
+                                6
+                            ],
+                            [
+                                554,
+                                6
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                568,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "created.",
+            {
+                "_index": 222,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1444,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "creating",
+            {
+                "_index": 100,
+                "title": {
+                    "/github-pages-guide/tutorial/creating-github-repositories/": {
+                        "position": [
+                            [
+                                0,
+                                8
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                823,
+                                8
+                            ],
+                            [
+                                911,
+                                8
+                            ],
+                            [
+                                947,
+                                8
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                286,
+                                8
+                            ],
+                            [
+                                1651,
+                                8
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/creating-github-repositories/": {
+                        "position": [
+                            [
+                                0,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "creation",
+            {
+                "_index": 96,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                785,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "dashboard.",
+            {
+                "_index": 228,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1558,
+                                10
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "data",
+            {
+                "_index": 124,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                205,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "data,",
+            {
+                "_index": 66,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                521,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "documentation",
+            {
+                "_index": 7,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                36,
+                                13
+                            ],
+                            [
+                                110,
+                                13
+                            ],
+                            [
+                                291,
+                                13
+                            ],
+                            [
+                                571,
+                                13
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "done,",
+            {
+                "_index": 203,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1108,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "don’t",
+            {
+                "_index": 115,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                113,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "earlier",
+            {
+                "_index": 208,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1198,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "easy",
+            {
+                "_index": 36,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                271,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "editor",
+            {
+                "_index": 42,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                319,
+                                6
+                            ],
+                            [
+                                446,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "email",
+            {
+                "_index": 142,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                439,
+                                5
+                            ],
+                            [
+                                484,
+                                5
+                            ],
+                            [
+                                1143,
+                                5
+                            ],
+                            [
+                                1171,
+                                5
+                            ],
+                            [
+                                1219,
+                                5
+                            ],
+                            [
+                                1274,
+                                5
+                            ],
+                            [
+                                1417,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "email,",
+            {
+                "_index": 221,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1380,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "email”",
+            {
+                "_index": 151,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                534,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "enter",
+            {
+                "_index": 141,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                428,
+                                5
+                            ],
+                            [
+                                641,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "everything",
+            {
+                "_index": 68,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                539,
+                                10
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "fantastic",
+            {
+                "_index": 120,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                152,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "field",
+            {
+                "_index": 148,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                507,
+                                5
+                            ],
+                            [
+                                592,
+                                5
+                            ],
+                            [
+                                1302,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "find",
+            {
+                "_index": 209,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1210,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "for",
+            {
+                "_index": 18,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                132,
+                                3
+                            ],
+                            [
+                                561,
+                                3
+                            ],
+                            [
+                                699,
+                                3
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                127,
+                                3
+                            ],
+                            [
+                                239,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "frameworks,",
+            {
+                "_index": 26,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                181,
+                                11
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "free",
+            {
+                "_index": 60,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                480,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "from",
+            {
+                "_index": 210,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1225,
+                                4
+                            ],
+                            [
+                                1265,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "get",
+            {
+                "_index": 49,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                363,
+                                3
+                            ],
+                            [
+                                661,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "github",
+            {
+                "_index": 9,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                53,
+                                6
+                            ],
+                            [
+                                403,
+                                6
+                            ],
+                            [
+                                692,
+                                6
+                            ],
+                            [
+                                725,
+                                6
+                            ],
+                            [
+                                872,
+                                6
+                            ],
+                            [
+                                922,
+                                6
+                            ],
+                            [
+                                972,
+                                6
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                16,
+                                6
+                            ],
+                            [
+                                57,
+                                6
+                            ],
+                            [
+                                297,
+                                6
+                            ],
+                            [
+                                324,
+                                6
+                            ],
+                            [
+                                1321,
+                                6
+                            ],
+                            [
+                                1602,
+                                6
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/creating-github-repositories/": {
+                        "position": [
+                            [
+                                25,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "github.",
+            {
+                "_index": 211,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1230,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "go",
+            {
+                "_index": 130,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                314,
+                                2
+                            ],
+                            [
+                                1530,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "great",
+            {
+                "_index": 93,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                760,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "guide",
+            {
+                "_index": 104,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                902,
+                                5
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                277,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "guide,",
+            {
+                "_index": 13,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                74,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "have",
+            {
+                "_index": 91,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                750,
+                                4
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1595,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "host",
+            {
+                "_index": 125,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                214,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "hosted",
+            {
+                "_index": 52,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                393,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "hosting",
+            {
+                "_index": 57,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                457,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "hosting,",
+            {
+                "_index": 86,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                703,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "how",
+            {
+                "_index": 1,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                0,
+                                3
+                            ],
+                            [
+                                94,
+                                3
+                            ],
+                            [
+                                267,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "https://account",
+            {
+                "_index": 181,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                903,
+                                15
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "https://github.com",
+            {
+                "_index": 134,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                371,
+                                18
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "human.",
+            {
+                "_index": 190,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1008,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "if",
+            {
+                "_index": 82,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                674,
+                                2
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                31,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "images,",
+            {
+                "_index": 67,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                527,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "importantly,",
+            {
+                "_index": 63,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                492,
+                                12
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "in",
+            {
+                "_index": 11,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                66,
+                                2
+                            ],
+                            [
+                                305,
+                                2
+                            ],
+                            [
+                                984,
+                                2
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                872,
+                                2
+                            ],
+                            [
+                                1340,
+                                2
+                            ],
+                            [
+                                1391,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "installing",
+            {
+                "_index": 27,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                193,
+                                10
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "into",
+            {
+                "_index": 147,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                498,
+                                4
+                            ],
+                            [
+                                1293,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "introduction",
+            {
+                "_index": 0,
+                "title": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                0,
+                                12
+                            ]
+                        ]
+                    }
+                },
+                "text": {}
+            }
+        ],
+        [
+            "is",
+            {
+                "_index": 38,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                279,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "it",
+            {
+                "_index": 37,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                276,
+                                2
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                73,
+                                2
+                            ],
+                            [
+                                857,
+                                2
+                            ],
+                            [
+                                1290,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "it’s",
+            {
+                "_index": 119,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                145,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "jump",
+            {
+                "_index": 98,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                806,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "just",
+            {
+                "_index": 46,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                347,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "labeled",
+            {
+                "_index": 149,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                513,
+                                7
+                            ],
+                            [
+                                598,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "later…",
+            {
+                "_index": 79,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                648,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "learn",
+            {
+                "_index": 15,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                88,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "let’s",
+            {
+                "_index": 80,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                655,
+                                5
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1619,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "like",
+            {
+                "_index": 179,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                892,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "log",
+            {
+                "_index": 218,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1336,
+                                3
+                            ],
+                            [
+                                1387,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "many",
+            {
+                "_index": 171,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                790,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "may",
+            {
+                "_index": 200,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1092,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "might",
+            {
+                "_index": 168,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                766,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "modern,",
+            {
+                "_index": 50,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                369,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "more",
+            {
+                "_index": 77,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                635,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "most",
+            {
+                "_index": 62,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                487,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "move",
+            {
+                "_index": 231,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1625,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "name.github.io",
+            {
+                "_index": 182,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                919,
+                                14
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "navigate",
+            {
+                "_index": 133,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                358,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "need",
+            {
+                "_index": 88,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                718,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "new",
+            {
+                "_index": 155,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                588,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "next",
+            {
+                "_index": 194,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1042,
+                                4
+                            ],
+                            [
+                                1640,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "not",
+            {
+                "_index": 185,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                952,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "now",
+            {
+                "_index": 230,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1591,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "on",
+            {
+                "_index": 8,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                50,
+                                2
+                            ],
+                            [
+                                237,
+                                2
+                            ],
+                            [
+                                400,
+                                2
+                            ],
+                            [
+                                640,
+                                2
+                            ],
+                            [
+                                969,
+                                2
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                453,
+                                2
+                            ],
+                            [
+                                1035,
+                                2
+                            ],
+                            [
+                                1314,
+                                2
+                            ],
+                            [
+                                1630,
+                                2
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/creating-github-repositories/": {
+                        "position": [
+                            [
+                                22,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "once",
+            {
+                "_index": 202,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1103,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "one",
+            {
+                "_index": 47,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                352,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "one?",
+            {
+                "_index": 92,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                755,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "online",
+            {
+                "_index": 41,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                312,
+                                6
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                162,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "only",
+            {
+                "_index": 74,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                621,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "open",
+            {
+                "_index": 131,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                339,
+                                4
+                            ],
+                            [
+                                1162,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "or",
+            {
+                "_index": 29,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                214,
+                                2
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                64,
+                                2
+                            ],
+                            [
+                                97,
+                                2
+                            ],
+                            [
+                                1414,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "our",
+            {
+                "_index": 117,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                131,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "page,",
+            {
+                "_index": 145,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                468,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "page.",
+            {
+                "_index": 216,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1328,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "pages",
+            {
+                "_index": 10,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                60,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "pages.",
+            {
+                "_index": 53,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                410,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "part?",
+            {
+                "_index": 55,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                430,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "password",
+            {
+                "_index": 154,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                577,
+                                8
+                            ],
+                            [
+                                649,
+                                8
+                            ],
+                            [
+                                1431,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "password”",
+            {
+                "_index": 157,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                617,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "paste",
+            {
+                "_index": 214,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1284,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "personalization",
+            {
+                "_index": 224,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1460,
+                                15
+                            ],
+                            [
+                                1504,
+                                15
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "pick",
+            {
+                "_index": 166,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                739,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "presented",
+            {
+                "_index": 198,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1078,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "progress...",
+            {
+                "_index": 107,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                987,
+                                11
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "project",
+            {
+                "_index": 20,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                141,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "prove",
+            {
+                "_index": 189,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                995,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "provided",
+            {
+                "_index": 207,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1189,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "public",
+            {
+                "_index": 127,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                247,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "publish",
+            {
+                "_index": 5,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                18,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "purposes,",
+            {
+                "_index": 118,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                135,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "remember,",
+            {
+                "_index": 159,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                665,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "repositories",
+            {
+                "_index": 105,
+                "title": {
+                    "/github-pages-guide/tutorial/creating-github-repositories/": {
+                        "position": [
+                            [
+                                9,
+                                12
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                956,
+                                12
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/creating-github-repositories/": {
+                        "position": [
+                            [
+                                9,
+                                12
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "repository.",
+            {
+                "_index": 101,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                834,
+                                11
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1662,
+                                11
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "robot",
+            {
+                "_index": 186,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                958,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "screen,",
+            {
+                "_index": 195,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1047,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "section",
+            {
+                "_index": 97,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                794,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "see",
+            {
+                "_index": 35,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                263,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "see.",
+            {
+                "_index": 128,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                257,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "service",
+            {
+                "_index": 121,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                169,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "setting",
+            {
+                "_index": 30,
+                "title": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                0,
+                                7
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                217,
+                                7
+                            ],
+                            [
+                                856,
+                                7
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                0,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "shown",
+            {
+                "_index": 215,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1308,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "sign",
+            {
+                "_index": 144,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                460,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "site",
+            {
+                "_index": 70,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                585,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "site’s",
+            {
+                "_index": 123,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                198,
+                                6
+                            ],
+                            [
+                                880,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "skip",
+            {
+                "_index": 94,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                768,
+                                4
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1455,
+                                4
+                            ],
+                            [
+                                1495,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "software,",
+            {
+                "_index": 28,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                204,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "solve",
+            {
+                "_index": 192,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1017,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "something",
+            {
+                "_index": 174,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                831,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "sounds",
+            {
+                "_index": 111,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                76,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "started.",
+            {
+                "_index": 81,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                665,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "static",
+            {
+                "_index": 126,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                224,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "step",
+            {
+                "_index": 102,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                889,
+                                4
+                            ],
+                            [
+                                897,
+                                4
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                264,
+                                4
+                            ],
+                            [
+                                272,
+                                4
+                            ],
+                            [
+                                761,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "step:",
+            {
+                "_index": 232,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1645,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "steps",
+            {
+                "_index": 227,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1520,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "store",
+            {
+                "_index": 122,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                187,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "straight",
+            {
+                "_index": 99,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                811,
+                                8
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1533,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "stylish",
+            {
+                "_index": 51,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                377,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "taken.",
+            {
+                "_index": 173,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                817,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "technical",
+            {
+                "_index": 113,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                87,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "texts,",
+            {
+                "_index": 65,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                514,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "that",
+            {
+                "_index": 78,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                643,
+                                4
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                177,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "the",
+            {
+                "_index": 40,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                308,
+                                3
+                            ],
+                            [
+                                421,
+                                3
+                            ],
+                            [
+                                442,
+                                3
+                            ],
+                            [
+                                773,
+                                3
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                243,
+                                3
+                            ],
+                            [
+                                320,
+                                3
+                            ],
+                            [
+                                402,
+                                3
+                            ],
+                            [
+                                456,
+                                3
+                            ],
+                            [
+                                503,
+                                3
+                            ],
+                            [
+                                970,
+                                3
+                            ],
+                            [
+                                1023,
+                                3
+                            ],
+                            [
+                                1038,
+                                3
+                            ],
+                            [
+                                1064,
+                                3
+                            ],
+                            [
+                                1167,
+                                3
+                            ],
+                            [
+                                1215,
+                                3
+                            ],
+                            [
+                                1243,
+                                3
+                            ],
+                            [
+                                1270,
+                                3
+                            ],
+                            [
+                                1298,
+                                3
+                            ],
+                            [
+                                1317,
+                                3
+                            ],
+                            [
+                                1427,
+                                3
+                            ],
+                            [
+                                1636,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "then",
+            {
+                "_index": 160,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                675,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "think",
+            {
+                "_index": 110,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                67,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "this",
+            {
+                "_index": 12,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                69,
+                                4
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                756,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "this:",
+            {
+                "_index": 180,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                897,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "tiledocs",
+            {
+                "_index": 43,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                327,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "to",
+            {
+                "_index": 2,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                4,
+                                2
+                            ],
+                            [
+                                98,
+                                2
+                            ],
+                            [
+                                282,
+                                2
+                            ],
+                            [
+                                609,
+                                2
+                            ],
+                            [
+                                685,
+                                2
+                            ],
+                            [
+                                820,
+                                2
+                            ],
+                            [
+                                908,
+                                2
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                254,
+                                2
+                            ],
+                            [
+                                283,
+                                2
+                            ],
+                            [
+                                317,
+                                2
+                            ],
+                            [
+                                367,
+                                2
+                            ],
+                            [
+                                736,
+                                2
+                            ],
+                            [
+                                992,
+                                2
+                            ],
+                            [
+                                1343,
+                                2
+                            ],
+                            [
+                                1542,
+                                2
+                            ],
+                            [
+                                1633,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "too",
+            {
+                "_index": 112,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                83,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "tricky",
+            {
+                "_index": 169,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                775,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "type",
+            {
+                "_index": 146,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                474,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "unfamiliar",
+            {
+                "_index": 109,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                41,
+                                10
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "up",
+            {
+                "_index": 31,
+                "title": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                8,
+                                2
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                225,
+                                2
+                            ],
+                            [
+                                864,
+                                2
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                8,
+                                2
+                            ],
+                            [
+                                465,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "up”",
+            {
+                "_index": 138,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                413,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "url,",
+            {
+                "_index": 178,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                887,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "use",
+            {
+                "_index": 85,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                688,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "username",
+            {
+                "_index": 163,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                711,
+                                8
+                            ],
+                            [
+                                1405,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "username.",
+            {
+                "_index": 167,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                746,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "usernames",
+            {
+                "_index": 172,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                795,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "using",
+            {
+                "_index": 25,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                175,
+                                5
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1394,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "vary).",
+            {
+                "_index": 201,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1096,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "verification",
+            {
+                "_index": 206,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1149,
+                                12
+                            ],
+                            [
+                                1247,
+                                12
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "verify",
+            {
+                "_index": 184,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                938,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "verifying",
+            {
+                "_index": 220,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1365,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "want",
+            {
+                "_index": 84,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                680,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "we",
+            {
+                "_index": 83,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                677,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "website",
+            {
+                "_index": 17,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                124,
+                                7
+                            ],
+                            [
+                                385,
+                                7
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                231,
+                                7
+                            ],
+                            [
+                                331,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "we’ll",
+            {
+                "_index": 87,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                712,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "will",
+            {
+                "_index": 71,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                590,
+                                4
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                182,
+                                4
+                            ],
+                            [
+                                628,
+                                4
+                            ],
+                            [
+                                860,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "with",
+            {
+                "_index": 45,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                342,
+                                4
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                52,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "without",
+            {
+                "_index": 21,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                149,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "work",
+            {
+                "_index": 106,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                979,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "worry.",
+            {
+                "_index": 116,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                119,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "write",
+            {
+                "_index": 39,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                285,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "writing",
+            {
+                "_index": 22,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                157,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "you",
+            {
+                "_index": 69,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                550,
+                                3
+                            ],
+                            [
+                                612,
+                                3
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1185,
+                                3
+                            ],
+                            [
+                                1440,
+                                3
+                            ],
+                            [
+                                1487,
+                                3
+                            ],
+                            [
+                                1587,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "you'll",
+            {
+                "_index": 14,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                81,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "you.",
+            {
+                "_index": 75,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                626,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "your",
+            {
+                "_index": 19,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                136,
+                                4
+                            ],
+                            [
+                                240,
+                                4
+                            ],
+                            [
+                                509,
+                                4
+                            ],
+                            [
+                                566,
+                                4
+                            ],
+                            [
+                                867,
+                                4
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                11,
+                                4
+                            ],
+                            [
+                                193,
+                                4
+                            ],
+                            [
+                                219,
+                                4
+                            ],
+                            [
+                                344,
+                                4
+                            ],
+                            [
+                                434,
+                                4
+                            ],
+                            [
+                                479,
+                                4
+                            ],
+                            [
+                                529,
+                                4
+                            ],
+                            [
+                                875,
+                                4
+                            ],
+                            [
+                                1346,
+                                4
+                            ],
+                            [
+                                1375,
+                                4
+                            ],
+                            [
+                                1400,
+                                4
+                            ],
+                            [
+                                1545,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "you’ll",
+            {
+                "_index": 34,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/": {
+                        "position": [
+                            [
+                                256,
+                                6
+                            ]
+                        ]
+                    },
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                658,
+                                6
+                            ],
+                            [
+                                720,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "you’re",
+            {
+                "_index": 108,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                34,
+                                6
+                            ],
+                            [
+                                945,
+                                6
+                            ],
+                            [
+                                1001,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "“continue”",
+            {
+                "_index": 152,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                553,
+                                10
+                            ],
+                            [
+                                687,
+                                10
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "“create",
+            {
+                "_index": 156,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                607,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "“enter",
+            {
+                "_index": 150,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                522,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "“sign",
+            {
+                "_index": 137,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                407,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "“submit”",
+            {
+                "_index": 204,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1121,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "“verify”",
+            {
+                "_index": 187,
+                "title": {},
+                "text": {
+                    "/github-pages-guide/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                975,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ]
+    ],
+    "pipeline": []
+}
